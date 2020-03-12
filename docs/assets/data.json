@@ -1,0 +1,52 @@
+{
+    "flightList":[
+        {
+            "flightName": "Delta Airways",
+            "flightCabinType": "cabin: Economy",
+            "amount": "$346.56",
+            "flightOptions": [{
+                "name":"Checked Bags",
+                "symbol": "dollar"
+              },{
+                "name":"Seat Choice",
+                "symbol": "dollar"
+              },{
+                "name":"Carry On Bag",
+                "symbol": "free"
+              },{
+                "name":"Cancellation",
+                "symbol": "dollar"
+              },{
+                "name":"Changes",
+                "symbol": "dollar"
+              },{
+                "name":"Personal Items",
+                "symbol": "free"
+              }]
+        },
+        {
+            "flightName": "Delta Airways",
+            "flightCabinType": "cabin: Premium/Economy",
+            "amount": "$549.16",
+            "flightOptions": [{
+                "name":"Checked Bags",
+                "symbol": "free"
+              },{
+                "name":"Seat Choice",
+                "symbol": "dollar"
+              },{
+                "name":"Carry On Bag",
+                "symbol": "free"
+              },{
+                "name":"Cancellation",
+                "symbol": "dollar"
+              },{
+                "name":"Changes",
+                "symbol": "dollar"
+              },{
+                "name":"Personal Items",
+                "symbol": "free"
+              }]
+        }
+    ]
+}
